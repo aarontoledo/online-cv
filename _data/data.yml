@@ -3,122 +3,173 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Aaron Toledo
+    tagline: Analyst // Analytics Engineer // Data Architect
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: contact@aarontoledo.com
+    phone: 
+    timezone: Pacific Daylight Time (UTC-7)
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
+    website: 
+    linkedin: aarontoledo
+    xing: 
+    github: 
+    telegram: 
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: 
 
     languages:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
-
     interests:
-      - item: Climbing
-        link:
+      - item: Grilling &amp; Smoking
+        link: https://www.kamadojoe.com/
 
-      - item: Snowboarding
-        link:
+      - item: Hiking
+        link: https://www.alltrails.com/
 
-      - item: Cooking
-        link:
+      - item: Technology
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am a marketing data analyst turned analytics engineeer / data architect
+      with hands-on experience designing, transforming, analyzing, and visualizing
+      data from various enterprise marketing and sales platforms. I have 12+ years
+      of experience with Tableau Desktop/Server and have been working with PowerBI
+      over the last few years. I also enjoy working with Python on projects to 
+      extract and anaylze data, working with APIs from Google, LinkedIn, Facebook,
+      Adobe, Salesforce, and other vendors in the marketing technology space.
+
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: BS | Cognitive Science, Human-Computer Interaction
+      university: University of California, San Diego
+      time: 2000 - 2005
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        DETAILS
+
+    - degree: Certification | Data Mining for Advanced Analytics
+      university: University of California, San Diego
+      time: 2018 - 2019
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Statistics, Data Preparation, Data Mining Practicum, Fundamentals of
+        Data Mining, Advanced Concepts &amp; Algorithms, Python for Informatics
+
+    - degree: Certification | Tableau Qualified Associate
+      university: Tableau
+      time: 2015
+      details: |
+        TBD
+
+    - degree: Certification | Google Analytics Individual Qualification
+      university: Google
+      time: 2015
+      details: |
+        TBD
+
+    - degree: Certification | Google Analytics Platform Principles
+      university: Google
+      time: 2014
+      details: |
+        TBD
+
+    - degree: Certification | Adobe Certified Expert, Insight Analyst
+      university: Adobe
+      time: 2012
+      details: |
+        TBD
+
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Principal Data Architect, Enterprise Systems
+      time: April 2021 - Present
+      company: Cepheid, a Danaher Company | Remote
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Lead data architect on the Digital Customer Experience (DCX) team, 
+        with a focus on enterprise systems including SAP ECC, SAP HANA,
+        Salesforce, and Snowflake. The DCX team was established during the
+        COVID-19 pandemic to support transitioning Cepheid customers from
+        traditional sales and customer support channels to a modern online
+        experience through a new digital customer portal, including eCommerce.
+        
+        Primary role is to support the product owners and the application
+        development team with data requirements, analysis to size the impact of
+        proposed features, post-implementation performance reporting, and
+        ad-hoc analysis of data from the source systems to provide technical
+        requirements in Jira stories. 
+
+        Additional responsibilites include supporting the Worldwide Marketing
+        organization with data engineering and data modeling projects within
+        Snowflake from systems such as Salesforce, Pardot, and online advertising
+        platforms.
+
+        Technologies and skills:
+          - PowerBI, Tableau, Salesforce, Pardot, SAP ECC, SAP HANA, Jira, Snowflake,
+          DynamoDB, CloudWatch, Splunk
+          - SQL, SOQL, SPL, Python, R, HTML, JavaScript
+
+    - role: Senior Data Analyst &rarr; Staff Marketing Analyst
+      time: October 2015 - April 2021
+      company: Illumina | San Diego, CA
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Lead eCommerce analyst and administrator for both Tableau Server and Adobe
+        Marketing Cloud. Primary responsibility is authoring data sources and
+        reports in Tableau, leveraging technologies such as MSSQL Server,
+        SAP HANA, and Splunk. Responsible for analyzing the impact of on-site
+        and off-site marketing efforts and their impact on customer experience
+        from initial engagement through purchase. 
+        
+        Technologies and skills:
+          - PowerBI, Tableau, Salesforce, SAP ECC, SAP HANA, Jira, Snowflake,
+          DynamoDB, CloudWatch, Splunk
+          - SQL, SOQL, SPL, Python, R, HTML, JavaScript
+
+    - role: Digital Strategist &rarr; Senior Optimization Consultant
+      time: April 2014 - October 2015
+      company: Tealium | San Diego, CA
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Tealium is the leader in enterprise tag management and digital data distribution
+        platforms. Tealium gives marketers a comprehensive solution for managing
+        their third-party digital marketing vendor tags, and then correlating the
+        data those tags generate into a clean, actionable source thats helps marketers
+        unify the customer journey and drive more profitable digital interactions.
+        
+        The Senior Optimization Consultant helps guide, educate and assist clients
+        with the Tealium solutions iQ and AudienceStream, as well as offer support
+        to existing clients as they modify and increase their use of Tealium solutions.
+          
           - Bullet point
           - Bullet point
+
+    - role: Director, Search Engine Marketing &rarr; Director, Analytics
+      time: Jan 2005 - April 2014
+      company: BusinessOnline | San Diego, CA
+      details: |
+        Oversee the BusinessOnLine SEM team which encompassed SEO, PPC, and web analytics.
+        Daily responsibilities included a combination of producing client deliverables,
+        primarily from a PPC and web analytics perspective, as well as managing internal
+        processes/resources.
+        
+        Transitioned to manager for the BusinessOnline analytics team. Primary
+        responsibilities revolve around auditing, implementing, integrating,
+        reporting, and providing analysis through various tools such as Adobe
+        Analytics, Adobe Insight, Google Analytics, Google AdWords, SmartLead,
+        Marketo, and Salesforce.
+          
+          - Bullet point
+          - Bullet point
+
 projects:
     title: Projects
     intro: >
@@ -126,69 +177,80 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
+      - title: Cepheid eCommerce and Customer Dashboard
+        link: "https://my.cepheid.com/"
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
-        link: "#"
+      - title: Illumina eCommerce and Customer Dashboard
+        link: "https://my.illumina.com/welcome"
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Real-Time Segmentation and Customer Engagement
+        link: "https://tealium.com/products-real-time-cdp-predictive-insights/"
+        tagline: "Consulted with early adopters of Tealium's AudienceStream platform
+        to build real-time customer segments and trigger personalized marketing
+        experiences. Integrated customer first-party data, real-time website activity,
+        and trigger-based API calls with AudienceStream. Tealium tools include
+        AudienceStream, iQ, and EventStream. Other tools include AWS RedShift,
+        AWS S3, Python, Tableau."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Closed-loop Marketing Analytics System
+        link: "https://www.bol-agency.com"
+        tagline: "Designed and implemented a closed-loop marketing system which
+        allowed for a clear connection between online customer activity and offline
+        sales. Integrated disparate databases into a data warehouse and used a
+        variety of visualization tools for reporting from the tactical to executive
+        level. Tools used include Python, MySQL, Amazon Web Services, Tableau."
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+# publications:
+#     title: Publications
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
+#     papers:
+#       - title: The Art of Computer Programming
+#         link: "#"
+#         authors: Donald E. Knuth
+#         conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#         link: "#"
+#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#       - title: A syntax directed compiler for Algol 60
+#         link: "#"
+#         authors: Edgar T. Irons
+#         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Excel
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Tableau
+        level: 95%
+
+      - name: SQL
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Python
+        level: 75%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+      - name: Javascript &amp; HTML
+        level: 75%
+
+      - name: PowerBI
+        level: 75%
+
+      - name: Splunk
+        level: 50%
+
+      - name: AWS
+        level: 25%
+
+# footer: >
+#     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
