@@ -30,10 +30,8 @@ sidebar:
     pdf: 
 
     languages:
-      title: Languages
-      info:
-        - idiom: English
-          level: Native
+      - idiom: English
+        level: Native
 
     interests:
       - item: Grilling &amp; Smoking
@@ -175,7 +173,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
+      You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
